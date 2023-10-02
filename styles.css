@@ -306,11 +306,7 @@ p {
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
   }
 
-  @media (max-width: 600px) {
-    form {
-      max-width: 100%;
-    }
-  }
+  
 
 
   footer {
@@ -324,7 +320,7 @@ p {
 
   .footer-section {
     flex: 1;
-    padding: 20px;
+    padding: 0px;
     text-align: center;
     color: var(--color-light);
   }
