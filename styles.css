@@ -323,3 +323,15 @@ p {
     text-align: center;
     color: var(--color-light);
   }
+
+
+.element-to-scale {
+  transform: scale(500px - 1000px); 
+}
+
+
+
+
+
+
+  
